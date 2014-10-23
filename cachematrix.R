@@ -2,7 +2,7 @@
 ## Matrix inverse cache functions 
 ##
 ## Looking for values in cache can save time over using CPU
-
+##
 ######################################################################
 # makeCacheMatrix(x = matrix())
 # Description:
