@@ -61,8 +61,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 # Usage:
 # > system.time(cacheSolve(z))
-# user  system elapsed 
-# 6.212   0.015   6.225 
+# user   system  elapsed 
+# 8.203   0.023   8.224
 # > system.time(cacheSolve(z))
 # getting cached data
 # user  system elapsed 
